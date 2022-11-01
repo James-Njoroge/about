@@ -1,0 +1,5 @@
+- 👋 Hi, I’m James-Njoroge
+- 👀 I’m interested in Data Science and Software Engineering
+- 🌱 I’m currently learning Data Structures and Computer Systems
+- 💞️ I’m looking to collaborate on anything interesting
+- 📫 How to reach me: Give me a shout over github
